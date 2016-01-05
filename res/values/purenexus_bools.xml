@@ -15,6 +15,5 @@
 -->
 
 <resources>
-    <color name="background_white">@android:color/white</color>
-    <color name="dialpad_digits_color">@color/incall_background_color</color>
-</resources> 
+    <bool name="config_dialpadDigitsStaticColor">false</bool>
+</resources>
